@@ -1,7 +1,3 @@
-Este repositorio es clave porque demuestra que dominas el estándar de seguridad en el ecosistema Java. Aunque sea un proyecto de base o estudio, para un reclutador es la prueba de que entendés conceptos complejos como autenticación, autorización y encriptación.
-
-Aquí tenés el README enfocado a resaltar tus habilidades técnicas:
-
 🔐 Spring Security Implementation
 Este repositorio contiene una implementación detallada de Spring Security, enfocada en aplicar los estándares modernos de seguridad para aplicaciones web y APIs basadas en Java. El objetivo principal es demostrar el manejo de la capa de seguridad, el control de acceso y la protección de recursos.
 
