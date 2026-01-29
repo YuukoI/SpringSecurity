@@ -1,4 +1,5 @@
-🔐 Spring Security Implementation
+🔐 Spring Security Implementation.
+
 Este repositorio contiene una implementación detallada de Spring Security, enfocada en aplicar los estándares modernos de seguridad para aplicaciones web y APIs basadas en Java. El objetivo principal es demostrar el manejo de la capa de seguridad, el control de acceso y la protección de recursos.
 
 🛠️ Tecnologías y Conceptos Aplicados
